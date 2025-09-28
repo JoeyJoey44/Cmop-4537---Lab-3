@@ -1,0 +1,15 @@
+{
+    "name": "comp4537-lab3",
+    "version": "1.0.0",
+    "description": "Node.js API server for Lab 3",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "keywords": ["nodejs", "api"],
+    "author": "Joey",
+    "license": "ISC",
+    "engines": {
+      "node": ">=18.0.0"
+    }
+  }
